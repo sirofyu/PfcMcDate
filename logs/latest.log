@@ -1,27 +1,37 @@
-[15:03:23] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[15:03:29] [Server thread/INFO]: Loading properties
-[15:03:29] [Server thread/INFO]: Default game type: SURVIVAL
-[15:03:29] [Server thread/INFO]: Generating keypair
-[15:03:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:03:31] [Server thread/INFO]: Preparing level "world"
-[15:03:31] [Server thread/INFO]: Preparing start region for level 0
-[15:03:32] [Server thread/INFO]: Preparing spawn area: 7%
-[15:03:33] [Server thread/INFO]: Preparing spawn area: 33%
-[15:03:34] [Server thread/INFO]: Preparing spawn area: 59%
-[15:03:35] [Server thread/INFO]: Preparing spawn area: 91%
-[15:03:36] [Server thread/INFO]: Done (4.791s)! For help, type "help" or "?"
-[15:04:19] [Server thread/INFO]: Stopping the server
-[15:04:19] [Server thread/INFO]: Stopping the server
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:04:19] [Server thread/INFO]: Stopping server
-[15:04:19] [Server thread/INFO]: Saving players
-[15:04:19] [Server thread/INFO]: Saving worlds
-[15:04:19] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:04:21] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[21:29:58] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[21:30:04] [Server thread/INFO]: Loading properties
+[21:30:04] [Server thread/INFO]: Default game type: SURVIVAL
+[21:30:04] [Server thread/INFO]: Generating keypair
+[21:30:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:30:06] [Server thread/INFO]: Preparing level "world"
+[21:30:06] [Server thread/INFO]: Preparing start region for level 0
+[21:30:07] [Server thread/INFO]: Done (0.870s)! For help, type "help" or "?"
+[21:31:49] [User Authenticator #1/INFO]: UUID of player Sirofyuu is bea6a410-9932-48ad-9398-639fc688b71e
+[21:31:49] [Server thread/INFO]: Sirofyuu[/127.0.0.1:53266] logged in with entity id 2766 at (-77.5, 83.0, 398.5)
+[21:31:49] [Server thread/INFO]: Sirofyuu joined the game
+[21:38:08] [User Authenticator #2/INFO]: UUID of player umisoon is dd6aca48-1af4-4b5c-9441-7552d8ffb9d8
+[21:38:17] [Server thread/INFO]: umisoon[/25.19.189.130:55637] logged in with entity id 9946 at (-77.5, 88.0, 408.5)
+[21:38:17] [Server thread/INFO]: umisoon joined the game
+[21:39:39] [Server thread/INFO]: umisoon has just earned the achievement [Taking Inventory]
+[21:39:41] [Server thread/INFO]: Sirofyuu has just earned the achievement [Taking Inventory]
+[21:40:22] [Server thread/INFO]: umisoon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:40:22] [Server thread/INFO]: umisoon left the game
+[21:40:30] [User Authenticator #3/INFO]: UUID of player umisoon is dd6aca48-1af4-4b5c-9441-7552d8ffb9d8
+[21:40:40] [Server thread/INFO]: umisoon[/25.19.189.130:55662] logged in with entity id 12453 at (-77.5, 88.0, 408.5)
+[21:40:40] [Server thread/INFO]: umisoon joined the game
+[21:42:27] [Server thread/INFO]: umisoon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:42:27] [Server thread/INFO]: umisoon left the game
+[21:42:37] [User Authenticator #4/INFO]: UUID of player umisoon is dd6aca48-1af4-4b5c-9441-7552d8ffb9d8
+[21:42:46] [Server thread/INFO]: umisoon[/25.19.189.130:64915] logged in with entity id 14543 at (-144.49817363756085, 59.98, 404.44989153555105)
+[21:42:46] [Server thread/INFO]: umisoon joined the game
+[21:43:06] [Server thread/INFO]: You must specify which player you wish to perform this action on.
+[21:44:50] [Server thread/INFO]: Opped umisoon
+[21:45:00] [Server thread/INFO]: umisoon fell out of the world
+[21:45:28] [Server thread/INFO]: umisoon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:45:28] [Server thread/INFO]: umisoon left the game
+[21:45:38] [Server thread/INFO]: Stopping the server
+[21:45:38] [Server thread/INFO]: Stopping server
+[21:45:38] [Server thread/INFO]: Saving players
+[21:45:38] [Server thread/INFO]: Saving worlds
+[21:45:38] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:45:39] [Server thread/INFO]: Saving chunks for level 'world'/Nether
