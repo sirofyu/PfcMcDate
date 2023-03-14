@@ -1,0 +1,9 @@
+//Put in this file any configuration from config.txt you want to change
+//That way they will not get overwritten when you update
+//For example, to play in French, put "language=fr" on a seperate line (without the quotes)
+//config.bonus_code.label; config.bonus_code.desc
+bonus_code=
+
+//config.quest_list_key.label; config.quest_list_key.desc
+quest_list_key=P
+

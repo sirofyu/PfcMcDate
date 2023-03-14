@@ -1,0 +1,22 @@
+[23:47:02] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:47:07] [Server thread/INFO]: Loading properties
+[23:47:07] [Server thread/INFO]: Default game type: SURVIVAL
+[23:47:07] [Server thread/INFO]: Generating keypair
+[23:47:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:47:09] [Server thread/INFO]: Preparing level "world"
+[23:47:09] [Server thread/INFO]: Preparing start region for level 0
+[23:47:10] [Server thread/INFO]: Done (0.625s)! For help, type "help" or "?"
+[23:47:15] [Server thread/INFO]: Stopping the server
+[23:47:15] [Server thread/INFO]: Stopping server
+[23:47:15] [Server thread/INFO]: Saving players
+[23:47:15] [Server thread/INFO]: Saving worlds
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The Dark Realm
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Omothol
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The Dreadlands
+[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The Abyssal Wasteland
