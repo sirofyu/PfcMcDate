@@ -1,22 +1,27 @@
-[23:47:02] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[23:47:07] [Server thread/INFO]: Loading properties
-[23:47:07] [Server thread/INFO]: Default game type: SURVIVAL
-[23:47:07] [Server thread/INFO]: Generating keypair
-[23:47:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:47:09] [Server thread/INFO]: Preparing level "world"
-[23:47:09] [Server thread/INFO]: Preparing start region for level 0
-[23:47:10] [Server thread/INFO]: Done (0.625s)! For help, type "help" or "?"
-[23:47:15] [Server thread/INFO]: Stopping the server
-[23:47:15] [Server thread/INFO]: Stopping server
-[23:47:15] [Server thread/INFO]: Saving players
-[23:47:15] [Server thread/INFO]: Saving worlds
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Torment
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The Dark Realm
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/Omothol
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The Dreadlands
-[23:47:15] [Server thread/INFO]: Saving chunks for level 'world'/The Abyssal Wasteland
+[15:03:23] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[15:03:29] [Server thread/INFO]: Loading properties
+[15:03:29] [Server thread/INFO]: Default game type: SURVIVAL
+[15:03:29] [Server thread/INFO]: Generating keypair
+[15:03:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:03:31] [Server thread/INFO]: Preparing level "world"
+[15:03:31] [Server thread/INFO]: Preparing start region for level 0
+[15:03:32] [Server thread/INFO]: Preparing spawn area: 7%
+[15:03:33] [Server thread/INFO]: Preparing spawn area: 33%
+[15:03:34] [Server thread/INFO]: Preparing spawn area: 59%
+[15:03:35] [Server thread/INFO]: Preparing spawn area: 91%
+[15:03:36] [Server thread/INFO]: Done (4.791s)! For help, type "help" or "?"
+[15:04:19] [Server thread/INFO]: Stopping the server
+[15:04:19] [Server thread/INFO]: Stopping the server
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:04:19] [Server thread/INFO]: Stopping server
+[15:04:19] [Server thread/INFO]: Saving players
+[15:04:19] [Server thread/INFO]: Saving worlds
+[15:04:19] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:04:21] [Server thread/INFO]: Saving chunks for level 'world'/Nether

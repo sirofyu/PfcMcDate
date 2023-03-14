@@ -25,8 +25,8 @@ call git commit -m "first commit"
 @rem Set remote repository settings.
 echo git branch -M master
 call git branch -M master
-echo git remote add origin https://github.com/sirofyu/PfcMc.git
-call git remote add origin https://github.com/sirofyu/PfcMc.git
+echo git remote add origin https://github.com/sirofyu/PfcMcDate.git
+call git remote add origin https://github.com/sirofyu/PfcMcDate.git
 
 @rem Check remote repository settings.
 echo git remote -v
